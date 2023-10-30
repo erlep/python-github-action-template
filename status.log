@@ -3385,3 +3385,5 @@
 2023-10-30 11:11:34,478 - __main__ - INFO - Weather in Brno: 14.7
 2023-10-30 11:19:32,440 - __main__ - INFO - Token value: toto je SOME_SECRET pro erlep/python-github-action-template
 2023-10-30 11:19:32,896 - __main__ - INFO - Weather in Brno: 14.7
+2023-10-30 11:26:50,428 - __main__ - INFO - Token value: toto je SOME_SECRET pro erlep/python-github-action-template
+2023-10-30 11:26:50,823 - __main__ - INFO - Weather in Brno: 14.79
