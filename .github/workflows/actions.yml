@@ -3,8 +3,8 @@ name: spustit run python main.py
 on:
   schedule:
     # - cron: '0 0 * * 1' # At 00:00 on Monday
-    # kazdych 5 minut
-    - cron: '*/1 * * * *'
+    # kazdych 5 minut, # na dalsim radku vypne 
+    # - cron: '*/1 * * * *'
 
 jobs:
   build:
